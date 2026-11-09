@@ -40,7 +40,7 @@ Foram utilizados os seguintes dados para acesso ao banco Oracle disponibilizado 
 - Porta: 1521
 - SID: ORCL
 - Usuário: RM570917
-- Senha: 281104
+- Senha: configure a credencial fornecida pela FIAP fora do repositório.
 
 ### Print da conexão
 
